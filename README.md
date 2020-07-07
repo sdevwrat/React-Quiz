@@ -1,4 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center"> React Multiple Choice Quiz </h1> <br>
+
+<table>
+	<tr>
+		<td>
+			A react Quiz component made with ReactJS.
+		</td>
+	</tr>
+</table>
+
+## Demo
+
+Here is a working live demo : https://sdevwrat.github.io/RoboFriends/
+
+### Home Page
+
+![homepage](https://user-images.githubusercontent.com/61136667/84585427-60433500-ae2d-11ea-89f5-baf73a51a4b4.png)
+
+### Searching for User
+
+![search](https://user-images.githubusercontent.com/61136667/84585470-b1ebbf80-ae2d-11ea-9c1d-a31f80da9ce5.png)
 
 ## Available Scripts
 
@@ -33,7 +53,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
