@@ -8,6 +8,10 @@
 	</tr>
 </table>
 
+## Demo
+
+[Click Here](https://sdevwrat.github.io/React-Quiz/) to view demo.
+
 ## Available Scripts
 
 In the project directory, you can run:
