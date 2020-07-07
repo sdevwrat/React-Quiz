@@ -8,18 +8,6 @@
 	</tr>
 </table>
 
-## Demo
-
-Here is a working live demo : https://sdevwrat.github.io/RoboFriends/
-
-### Home Page
-
-![homepage](https://user-images.githubusercontent.com/61136667/84585427-60433500-ae2d-11ea-89f5-baf73a51a4b4.png)
-
-### Searching for User
-
-![search](https://user-images.githubusercontent.com/61136667/84585470-b1ebbf80-ae2d-11ea-9c1d-a31f80da9ce5.png)
-
 ## Available Scripts
 
 In the project directory, you can run:
